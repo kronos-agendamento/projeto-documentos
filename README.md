@@ -1,7 +1,6 @@
 <img src="github-header-documento.jpg">
 
 ## Sobre Nós
-https://github.com/kronos-agendamento/projeto-documentos/tree/main
 Kronos é um sistema integrado de gestão de agendamentos e controle de estoque desenvolvido para atender às necessidades da área de estética e beleza. Nosso objetivo é proporcionar uma solução completa e eficiente para profissionais e empreendedores autônomos do setor, permitindo uma gestão simplificada de seus negócios.
 
 ## Funcionalidades Principais
