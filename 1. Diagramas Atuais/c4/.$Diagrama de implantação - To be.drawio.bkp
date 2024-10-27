@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
   <diagram name="Página-1" id="N5SFHMYoh_kZs-lKCsNY">
-    <mxGraphModel dx="875" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
         <mxCell id="19qbWImqszUy8g7NEPFR-20" value="&lt;font color=&quot;#7f00ff&quot; style=&quot;font-size: 10px;&quot;&gt;[Node de Infraestrutura]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="19qbWImqszUy8g7NEPFR-3">
           <mxGeometry x="411.75" y="123" width="184.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="19qbWImqszUy8g7NEPFR-21" value="&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 11px;&quot;&gt;[Container: HTML, CSS, JS e Kotlin]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="19qbWImqszUy8g7NEPFR-3">
+        <mxCell id="19qbWImqszUy8g7NEPFR-21" value="&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 11px;&quot;&gt;[Node de Infraestrutura]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="19qbWImqszUy8g7NEPFR-3">
           <mxGeometry x="771.75" y="133" width="184.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="19qbWImqszUy8g7NEPFR-24" value="" style="fillColor=none;strokeColor=#990099;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" vertex="1" parent="19qbWImqszUy8g7NEPFR-3">
@@ -116,60 +116,6 @@
         <mxCell id="19qbWImqszUy8g7NEPFR-42" value="Insere e Consome" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="19qbWImqszUy8g7NEPFR-41">
           <mxGeometry x="0.0909" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="19qbWImqszUy8g7NEPFR-45" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="680" y="600" width="180" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="19qbWImqszUy8g7NEPFR-46" value="&lt;b&gt;&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 15px;&quot;&gt;API Pipefy&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="720" y="610" width="95" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="19qbWImqszUy8g7NEPFR-47" value="&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 11px;&quot;&gt;[API Externa]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="675.25" y="640" width="184.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="19qbWImqszUy8g7NEPFR-48" value="&lt;font color=&quot;#00cc00&quot;&gt;API Externa que coleta dados de clientes relevantes para o negócio&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="719" y="700" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="19qbWImqszUy8g7NEPFR-49" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=14;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="19qbWImqszUy8g7NEPFR-45" target="19qbWImqszUy8g7NEPFR-17">
-          <mxGeometry width="60" height="60" relative="1" as="geometry">
-            <mxPoint x="790" y="630" as="sourcePoint" />
-            <mxPoint x="850" y="570" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="770" y="550" />
-              <mxPoint x="877" y="550" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="19qbWImqszUy8g7NEPFR-50" value="Coleta dados" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="19qbWImqszUy8g7NEPFR-49">
-          <mxGeometry x="-0.2871" y="2" relative="1" as="geometry">
-            <mxPoint x="6" y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="19qbWImqszUy8g7NEPFR-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="980" y="600" width="180" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="19qbWImqszUy8g7NEPFR-52" value="&lt;b&gt;&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 15px;&quot;&gt;API ViaCEP&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1027" y="610" width="95" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="19qbWImqszUy8g7NEPFR-53" value="&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 11px;&quot;&gt;[API Externa]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="975.25" y="641" width="184.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="19qbWImqszUy8g7NEPFR-54" value="&lt;font color=&quot;#00cc00&quot;&gt;API Externa que informa a localização baseada no CEP informado&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1021" y="695" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="19qbWImqszUy8g7NEPFR-55" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=14;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="19qbWImqszUy8g7NEPFR-51" target="19qbWImqszUy8g7NEPFR-17">
-          <mxGeometry width="60" height="60" relative="1" as="geometry">
-            <mxPoint x="880" y="590" as="sourcePoint" />
-            <mxPoint x="940" y="530" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1070" y="550" />
-              <mxPoint x="973" y="550" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="19qbWImqszUy8g7NEPFR-56" value="Retorna informação" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="19qbWImqszUy8g7NEPFR-55">
-          <mxGeometry x="-0.3951" y="1" relative="1" as="geometry">
-            <mxPoint x="-22" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
