@@ -1,0 +1,98 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="9-xTg-6y7FksglI8sIYr">
+    <mxGraphModel dx="1219" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="670" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="680" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="589" width="680" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-4" value="Processos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="54" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-5" value="Aplicação" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="52" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-6" value="Infraestrutura" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AXJDwAKvx6iluLiu_2wL-8" target="AXJDwAKvx6iluLiu_2wL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-8" value="Cadastro de Cliente" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="90" y="121" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AXJDwAKvx6iluLiu_2wL-9" target="AXJDwAKvx6iluLiu_2wL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-9" value="Agendamento de Procedimento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="290" y="121" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-11" value="Feedback Pós-Atendimento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="490" y="121" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXJDwAKvx6iluLiu_2wL-13" target="AXJDwAKvx6iluLiu_2wL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-13" value="Interface de cadastro (site institucional)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="90" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXJDwAKvx6iluLiu_2wL-15" target="AXJDwAKvx6iluLiu_2wL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-15" value="API Pipefy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="90" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXJDwAKvx6iluLiu_2wL-17" target="AXJDwAKvx6iluLiu_2wL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXJDwAKvx6iluLiu_2wL-17" target="AXJDwAKvx6iluLiu_2wL-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="630" />
+              <mxPoint x="460" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-17" value="Interface de agendamento KronosBooking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="290" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXJDwAKvx6iluLiu_2wL-19" target="AXJDwAKvx6iluLiu_2wL-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="620" />
+              <mxPoint x="180" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-19" value="On Premise" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="430" y="654" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-21" value="BD Local" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="810" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-23" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=14;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXJDwAKvx6iluLiu_2wL-19" target="AXJDwAKvx6iluLiu_2wL-21">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="440" y="760" as="sourcePoint" />
+            <mxPoint x="500" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXJDwAKvx6iluLiu_2wL-26" target="AXJDwAKvx6iluLiu_2wL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXJDwAKvx6iluLiu_2wL-26" target="AXJDwAKvx6iluLiu_2wL-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJDwAKvx6iluLiu_2wL-26" value="Interface de feedback (KronosBooking)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="490" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
